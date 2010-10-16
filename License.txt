@@ -1,0 +1,5 @@
+Creative Commons License: http://creativecommons.org/licenses/by/3.0/
+
+Attribution:
+1. http://github.com/b1tr0t/Google-Analytics-for-Mobile--python-/blob/master/ga.py
+2. http://code.google.com/mobile/analytics/docs/web/
