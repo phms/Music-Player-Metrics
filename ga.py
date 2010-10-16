@@ -41,8 +41,8 @@ GIF_DATA = reduce(lambda x,y: x + struct.pack('B', y),
                    0x00,0x00,0x01,0x00,0x01,0x00, 
                    0x00,0x02,0x01,0x44,0x00,0x3b], '')
 
-ACCOUNT = appConfig.rfProd if appConfig.isProduction() else appConfig.rfOthr
-DOMAIN = appConfig.Environment().intURL
+ACCOUNT = 'UA-1234567-1'
+DOMAIN = 'example.com'
 
 # WHITE GIF:
 # 47 49 46 38 39 61 
