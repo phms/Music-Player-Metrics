@@ -8,7 +8,7 @@ Cookies Reference:
 On http://www.google.com/support/conversionuniversity/bin/static.py?hl=en&page=iq_learning_center.cs&rd=1,
     watch the Cookies and Google Analytics presentation
 
-Adapted from 
+Adapted from:
 http://github.com/b1tr0t/Google-Analytics-for-Mobile--python-/blob/master/ga.py
     
 """
