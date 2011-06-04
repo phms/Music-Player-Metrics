@@ -1,0 +1,10 @@
+[RB Plugin]
+Loader=python
+Module=mp-metrics
+IAge=1
+Name=Music Player Metrics
+Description=Statistics to Rhythmbox using Google Analytics
+Description[pt_BR]=Estatísticas para Rhythmbox usando Google Analytics
+Authors=Fabio Serra <fabio@phms.com.br>
+Copyright=Copyright © 2010 Fabio Serra
+Website=http://mp-metrics.phms.com.br/
